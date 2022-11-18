@@ -19,7 +19,7 @@ namespace StringSolution_500W_Q3
         public static void Run()
         {
            
-            Eval("(1+2)*(3+4))*(5*(8+9)"); // სფეისები მოვშალე და არ დამაკლო ამაში ქულა :) ისედაც გავასუფთავებდი სფეისებს კოდით თუ იქნებოდა
+            Eval("(1+2)*(3+4))*(5*(8+9)"); 
         }
 
         public static void Eval(string input)
